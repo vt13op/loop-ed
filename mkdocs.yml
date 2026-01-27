@@ -4,3 +4,4 @@ theme:
 nav:
   - Home: index.md
   - Maatalous: maatalous.md
+  - Metsätalous: metsatalous.md
