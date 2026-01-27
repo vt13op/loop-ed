@@ -1,6 +1,6 @@
-site_name: Materiaalien kierrätys
+site_name: loop-ed - Materiaalien kierrätys
 theme:
   name: material
 nav:
   - Home: index.md
-  - About: about.md
+  - Maatalous: maatalous.md
