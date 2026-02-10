@@ -1,7 +1,3 @@
 :root {
   --md-primary-fg-color: #00493A;
 }
-
-.md-header__button.md-logo::after {
-  content: "♻";
-}
