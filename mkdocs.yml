@@ -5,3 +5,5 @@ nav:
   - Home: index.md
   - Maatalous: maatalous.md
   - Metsätalous: metsatalous.md
+extra_css:
+  - assets/styles.css
