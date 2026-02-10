@@ -1,7 +1,21 @@
-# Tälle sivulle koostetaan maatalouden jätteiden kierrätysohjeita
+# Maatalouden jätteiden kierrätysohjeet
 
-Jne. tekstiä tähän
+- [Muovit](#Muovit)
 
-## Alaotsikko
+## Muovit
 
-Ja siihen tekstiä
+- IBC-kontit
+- Kanisterit ja tynnyrit
+- Kastelulaitteet ja letkut
+- Kasvien tukinarut ja klipsit
+- Katemuovit ja -kalvot, kateharsot ja lintuverkot
+- Kennot, lokerikot ja laatikot
+- Kiristehuput
+- Lavahuput
+- Muut kasvihuoneiden pakkausmateriaalit
+- Paalit, aumamuovit ja käärintäverkot
+- Ruukut
+- Säkit
+- Vanhat likaiset muovit
+
+https://www.ruokavirasto.fi/tuet/maatalous/oppaat/muoviopas/#sisallysluettelo
