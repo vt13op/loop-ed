@@ -2,7 +2,7 @@ site_name: loop-ed - Materiaalien kierrätys
 theme:
   name: material
 nav:
-  - Home: index.md
+  - Tietoa: index.md
   - Maatalous: maatalous.md
   - Metsätalous: metsatalous.md
 extra_css:
