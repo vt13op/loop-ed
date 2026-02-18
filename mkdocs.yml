@@ -3,7 +3,12 @@ theme:
   name: material
 nav:
   - Tietoa: index.md
-  - Maatalous: maatalous.md
-  - Metsätalous: metsatalous.md
+  - Hengityssuojaimet: hengityssuojaimet.md
+  - Muovit - likaiset tai muut sekalaiset: muovit-likainen_tai_muu_sekalainen.md
+  - Orgaaninen jäte: orgaaninen_jate.md
+  - Pahvit: pahvit.md
+  - Paperit: paperit.md
+  - Paperit - tuhottavat: paperit-tuhottava.md
+  - Pullot ja tölkit: pullot_ja_tolkit.md
 extra_css:
   - assets/styles.css
