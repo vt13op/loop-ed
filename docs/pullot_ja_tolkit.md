@@ -1,0 +1,1 @@
+Keräysastia, pullonpalautus
