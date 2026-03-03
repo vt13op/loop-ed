@@ -1,3 +1,5 @@
+Pahvit ja kartonkipakkaukset.
+
 ## Saa laittaa  
 
 - pahvilaatikot, aaltopahvi, voimapaperi
