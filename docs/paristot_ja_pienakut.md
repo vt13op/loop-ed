@@ -1,6 +1,6 @@
 Voit kierrättää paristot ja pienakut jokaisessa niitä myyvässä kaupassa tai kioskissa sekä lajittelu- ja kierrätyskeskuksella. 
 
-## Saa laittaa
+### Saa laittaa
 
 - alkaliparistot  
 - litiumparistot  
@@ -12,7 +12,7 @@ Voit kierrättää paristot ja pienakut jokaisessa niitä myyvässä kaupassa ta
 
 Teippaa käytöstä poistettujen paristojen ja akkujen navat. Laita vuotavat paristot pussiin. 
 
-## Ei saa laittaa
+### Ei saa laittaa
 
 Palauta muualle kuin kauppaan 
 
@@ -20,6 +20,6 @@ Palauta muualle kuin kauppaan
 - Ajoneuvojen akkuja otetaan vastaan lajittelu- ja kierrätyskeskukseen sekä pienjäteasemille. 
 - Isoja yksinomaan teollisuus- tai ammattikäyttöön suunniteltuja akkujen kierrätysohjeet saat akun maahantuojalta. 
 
-## Kierrätyspiste
+### Kierrätyspiste
 
 Kaupat, kioskit sekä lajittelu- ja kierrätuskeskukset.

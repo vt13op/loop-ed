@@ -1,6 +1,6 @@
 Vaaralliset jätteet sisältävät aineita, jotka jo pieninä määrinä voivat olla 	haitallisia tai vaarallisia ihmisille ja ympäristölle. Jätteiden hyödyntämisen 	ja turvallisen loppusijoituksen tärkein edellytys on, että vaaralliset jätteet 	lajitellaan pois muiden jätteiden joukosta ja toimitetaan vaarallisten 	jätteiden vastanottopaikkaan.   
 
-## Saa laittaa
+### Saa laittaa
 
 Vaarallista jätettä ovat 
 
@@ -21,7 +21,7 @@ Vaarallista jätettä ovat
 
 HUOM! Pidä vaaralliset jätteet erillään muista jätteistä. Älä sekoita 	erilaisia vaarallisia jätteitä keskenään. Säilytä vaaralliset jätteet mieluiten 	alkuperäisissä pakkauksissa tai merkitse pakkaukset selkeästi. Huolehdi, 	että pakkaukset ovat tiiviitä ja säilyvät ehjinä kuljetuksessa.   
  
-## Ei saa laittaa
+### Ei saa laittaa
 
 Vaarallista jätettä eivät ole
 
@@ -33,4 +33,4 @@ Vaarallista jätettä eivät ole
 - palovaroittimet
 - tyhjät hajuvesi-, kynsilakka-ja kynsilakanpoistoainepullot
 
- ## Kierrätyspiste
+ ### Kierrätyspiste

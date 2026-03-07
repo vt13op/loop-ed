@@ -1,6 +1,6 @@
 Pienmetallia ovat pääsääntöisesti metallipakkaukset, mutta keräykseen voi laittaa myös muuta kodin pienmetallia, joka mahtuu keräysastiaan. Astiaan mahtumaton romumetalli tulee toimittaa lajitteluasemalle. 
 
-## Saa laittaa
+### Saa laittaa
 
 - metallipurkit, -korkit, –kannet ja sulkimet
 - pantittomat juomatölkit 
@@ -13,11 +13,11 @@ Pienmetallia ovat pääsääntöisesti metallipakkaukset, mutta keräykseen voi 
 - metalliset koriste-esineet 
 - naulat, ruuvit, helat, käsityökalut 
 
-## Ei saa laittaa 
+### Ei saa laittaa 
 
 - sähkölaitteita 
 - pattereita ja akkuja 
 - puolityhjiä maalipurkkeja ja aerosolipulloja 
 - muovi- ja kahvipusseja 
 
-## Kierrätyspiste
+### Kierrätyspiste

@@ -1,22 +1,22 @@
-# Puhdas puujäte 
+## Puhdas puujäte 
 
-## Saa laittaa 
+### Saa laittaa 
 
 - puhdas puu 
 
-## Ei saa laittaa 
+### Ei saa laittaa 
 
 - maalattu ja pinnoitettu puu 
 - kyllästetty puu 
 - ratapölkyt 
 
-## Kierrätyspiste
+### Kierrätyspiste
 
 ---
 
-# Sekalainen puujäte 
+## Sekalainen puujäte 
 
-## Saa laittaa 
+### Saa laittaa 
 
 - maalattu ja käsitelty puu  
 - puupohjaiset levyt  
@@ -24,7 +24,7 @@
 - laudat ja oksat  
 - puuklapit ja muu pienpuu 
 
-## Ei saa laittaa 
+### Ei saa laittaa 
 
 - kyllästetty puu 
 - tiili, kiviainen, hiontanauhat 
@@ -33,7 +33,7 @@
 
 Puujätteen kierrätykseen ei saa lajitella kyllästettyä puuta vaan se tulee kerätä erikseen, sillä se luokitellaan vaaralliseksi jätteeksi. 
 
-## Kierrätyspiste
+### Kierrätyspiste
 
 ---
  

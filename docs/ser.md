@@ -1,6 +1,6 @@
  SER, eli käytöstä poistetut sähkö- ja elektroniikkalaitteet. Sähkö- ja elektroniikkalaitteiden keräykseen kuuluu kaikki laitteet, jotka toimiakseen tarvitsevat sähkövirtaa, akkua, paristoa tai aurinkoenergiaa. Sinne kuuluu myös kaikki lamput, lukuun ottamatta hehku- ja halogeenilamppuja. 
 
-## Saa laittaa 
+### Saa laittaa 
 
 - kodinkoneet 
 - valaisimet 
@@ -15,9 +15,9 @@
 - puhelimet 
 - lamput ja valosarjat, myös led
 
-## Ei saa laittaa 
+### Ei saa laittaa 
 
 - polttomoottorit
 - hehku- ja halogeeni- ja autolamput
 
-## Kierrätyspiste
+### Kierrätyspiste

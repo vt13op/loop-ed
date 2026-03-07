@@ -1,4 +1,4 @@
-## Saa laittaa
+### Saa laittaa
 
 - alumiininen tölkki
 - PET-muovipullo
@@ -6,7 +6,7 @@
 - uudelleentäytettävä lasipullo
 
 
-## Kierrätyspiste
+### Kierrätyspiste
 
 Keräysastia, pullonpalautus
 

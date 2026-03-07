@@ -1,8 +1,8 @@
-# Paperi
+## Tavallinen paperi
 
 Paperinkeräykseen kuuluu postiluukusta tuleva paperi sekä kirjoitus- ja tulostuspaperi. 
 
-## Saa laittaa  
+### Saa laittaa  
 
 - sanoma- ja aikakauslehdet  
 - mainosposti ja esitteet 
@@ -13,7 +13,7 @@ Paperinkeräykseen kuuluu postiluukusta tuleva paperi sekä kirjoitus- ja tulost
 
 Niittejä ja paperiliittimiä ei tarvitse poistaa. Materiaalin tulee olla puhdasta ja kuivaa.  
 
-## Ei saa laittaa  
+### Ei saa laittaa  
 
 - kirjoja 
 - pahvia tai kartonkia
@@ -22,16 +22,16 @@ Niittejä ja paperiliittimiä ei tarvitse poistaa. Materiaalin tulee olla puhdas
 - pehmopapereita (esim. talouspaperi, nenäliinat) 
 - henkilötietoja sisältäviä papereita
 
-## Kierrätyspiste
+### Kierrätyspiste
 
 
 ---
 
-# Tietosuojapaperi
+## Tietosuojapaperi
 
 Tietosuojapaperi on tuhottavaa paperia. Se laitetaan lukolliseen tietosuojakeräysastiaan. 
 
-## Saa laittaa 
+### Saa laittaa 
 
 Laita tänne kaikki paperit, joissa on esim. 
 
@@ -41,10 +41,10 @@ Laita tänne kaikki paperit, joissa on esim.
 - henkilötunnus 
 - terveys- tai hoitotietoja 
 
-## Ei saa laittaa 
+### Ei saa laittaa 
 
 - tavallisia monisteita ilman henkilötietoja 
 
-## Kierrätyspiste
+### Kierrätyspiste
 
 Tietosuojakeräysastia.

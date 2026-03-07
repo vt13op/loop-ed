@@ -1,6 +1,6 @@
 Kartonkipakkaus on myytävän tuotteen pakkaamiseen käytetty kartonkinen laatikko, rasia, käärepaperi tms. Pakkauksia ovat myös ostosten kotiin kantamiseen tarkoitetut paperikassit.  
 
-## Saa laittaa  
+### Saa laittaa  
 
 - pahvilaatikot, aaltopahvi, voimapaperi
 - paperipussit ja -kassit
@@ -8,13 +8,13 @@ Kartonkipakkaus on myytävän tuotteen pakkaamiseen käytetty kartonkinen laatik
 
 Litistä pakkaukset. Pienistä tahroista ei ole haittaa, huuhtaise pakkaus tarvittaessa kylmällä vedellä. 
 
-## Ei saa laittaa 
+### Ei saa laittaa 
 
 - lahjapaperia
 - muovia, kuten muovikasseja ja –pakkauksia, kuplamuovia tai styroxia
 
 
-## Kierrätyspiste
+### Kierrätyspiste
 
 ?
 

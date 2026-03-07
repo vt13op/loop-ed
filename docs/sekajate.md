@@ -1,6 +1,6 @@
 Sekajätteeseen laitetaan jäte, jota ei voi lajitella muualle.  
 
-## Saa laittaa 
+### Saa laittaa 
 
 - hengityssuojaimet  
 - likaiset tai muut sekalaiset muovit 
@@ -18,7 +18,7 @@ Sekajätteeseen laitetaan jäte, jota ei voi lajitella muualle.
 - tyhjät, vaarallisia aineita sisältäneet pakkaukset
 - tyhjä tai täysin kuivunutta liimaa sisältävä liimapurkki
 
-## Ei saa laittaa 
+### Ei saa laittaa 
 
 - lasia ja keramiikkaa 
 - tietosuojapaperia 
@@ -34,5 +34,5 @@ Sekajätteeseen laitetaan jäte, jota ei voi lajitella muualle.
 - puujätettä 
 - torjunta-aineita 
 
-## Kierrätyspiste
+### Kierrätyspiste
  
