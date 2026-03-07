@@ -11,9 +11,9 @@ nav:
   - Paristot ja pienakut: paristot_ja_pienakut.md
   - Pienmetallit: pienmetallit.md
   - Pullot ja tölkit: pullot_ja_tolkit.md
+  - Puut: puut.md
   - Sekajäte: sekajate.md
   - SER: ser.md
-  - Tietosuojapaperit: tietosuojapaperit.md
   - Vaarallinen jäte: vaarallinen_jate.md
 extra_css:
   - assets/styles.css
