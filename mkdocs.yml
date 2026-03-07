@@ -4,7 +4,7 @@ theme:
 nav:
   - Tietoa: index.md
   - Lasi ja keramiikka: lasi_ja_keramiikka.md
-  - Muovit - likaiset tai muut sekalaiset: muovit-likainen_tai_muu_sekalainen.md
+  - Muovit: muovit.md
   - Orgaaninen jäte: orgaaninen_jate-kompostoitava.md
   - Pahvit: pahvit.md
   - Paperit: paperit.md
@@ -12,6 +12,8 @@ nav:
   - Pienmetallit: pienmetallit.md
   - Pullot ja tölkit: pullot_ja_tolkit.md
   - Sekajäte: sekajate.md
+  - SER: ser.md
   - Tietosuojapaperit: tietosuojapaperit.md
+  - Vaarallinen jäte: vaarallinen_jate.md
 extra_css:
   - assets/styles.css

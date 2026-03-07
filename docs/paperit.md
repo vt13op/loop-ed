@@ -18,5 +18,6 @@ Niittejä ja paperiliittimiä ei tarvitse poistaa. Materiaalin tulee olla puhdas
 - ruskeaa paperia
 - paperikasseja
 - pehmopapereita (esim. talouspaperi, nenäliinat) 
+- henkilötietoja sisältäviä papereita
 
 ## Kierrätyspiste
