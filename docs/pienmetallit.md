@@ -2,22 +2,22 @@ Pienmetallia ovat pääsääntöisesti metallipakkaukset, mutta keräykseen voi 
 
 ## Saa laittaa
 
-- Metallipurkit, -korkit, –kannet ja sulkimet
-- Pantittomat juomatölkit 
-- Alumiinifoliot ja -vuoat 
-- Tuikkujen ja ulkotulien kuoret 
-- Tyhjät ja kuivat maalipurkit 
-- Metalliesineet 
-- Paineettomat aerosolipurkit 
-- Kattilat, paistinpannut, aterimet, sakset 
-- Metalliset koriste-esineet 
-- Naulat, ruuvit, helat, käsityökalut 
+- metallipurkit, -korkit, –kannet ja sulkimet
+- pantittomat juomatölkit 
+- alumiinifoliot ja -vuoat 
+- tuikkujen ja ulkotulien kuoret 
+- tyhjät ja kuivat maalipurkit 
+- metalliesineet 
+- paineettomat aerosolipurkit 
+- kattilat, paistinpannut, aterimet, sakset 
+- metalliset koriste-esineet 
+- naulat, ruuvit, helat, käsityökalut 
 
 ## Ei saa laittaa 
 
-- Sähkölaitteita 
-- Pattereita ja akkuja 
-- Puolityhjiä maalipurkkeja ja aerosolipulloja 
-- Muovi- ja kahvipusseja 
+- sähkölaitteita 
+- pattereita ja akkuja 
+- puolityhjiä maalipurkkeja ja aerosolipulloja 
+- muovi- ja kahvipusseja 
 
 ## Kierrätyspiste

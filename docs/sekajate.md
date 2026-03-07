@@ -12,7 +12,11 @@ Sekajätteeseen laitetaan jäte, jota ei voi lajitella muualle.
 - likaiset käärepaperit 
 - likaiset elintarvikepakkaukset 
 - hygieniatuotteet
-- purukumit 
+- purukumit
+- hehku- ja halogeeni- ja autolamput
+- lelut, keittiötarvikkeet, hammasharjat ja 	kastelukannut
+- tyhjät, vaarallisia aineita sisältäneet pakkaukset
+- tyhjä tai täysin kuivunutta liimaa sisältävä liimapurkki
 
 ## Ei saa laittaa 
 
