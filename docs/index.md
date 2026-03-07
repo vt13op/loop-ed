@@ -2,8 +2,7 @@
 
 Ohjeita materiaalien kierrätykseen.
 
-
-# FIVE FACTS ABOUT MICROLEARNING
+## FIVE FACTS ABOUT MICROLEARNING
 
 1. Puts knowledge in small and understandable pieces and grants learners’ access to the newest information regardless of their location, time of day or the preferred format of information (Mohammed, Wakil, & Nawroly, 2018).
 2. Increases students’ learning abilities by 18% compared to traditional methods (Mohammed et al., 2018, as in Dolasinski & Reynolds, 2020).
