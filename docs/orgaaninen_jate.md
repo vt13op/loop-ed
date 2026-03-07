@@ -13,6 +13,7 @@ Kompostoriin laitetaan puhdasta luonnonmukaista biojätettä. Poista 	muoviruuku
 - maalatut tai kimalteella varustetut leikkokukat
 - kukka-asetelmien koristeet 
 - muovi- ja metallilangat 
-- kukkien tukirakenteet 
+- kukkien tukirakenteet
+- karvat, jätökset, palkkaherkut
 
 ### Kierrätyspiste
