@@ -1,0 +1,2 @@
+koirankarva, jätökset, palkkaherkut
+Sekajäte
