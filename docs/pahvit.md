@@ -1,4 +1,4 @@
-Pahvit ja kartonkipakkaukset.
+Kartonkipakkaus on myytävän tuotteen pakkaamiseen käytetty kartonkinen laatikko, rasia, käärepaperi tms. Pakkauksia ovat myös ostosten kotiin kantamiseen tarkoitetut paperikassit.  
 
 ## Saa laittaa  
 
@@ -8,10 +8,10 @@ Pahvit ja kartonkipakkaukset.
 
 Litistä pakkaukset. Pienistä tahroista ei ole haittaa, huuhtaise pakkaus tarvittaessa kylmällä vedellä. 
 
-
 ## Ei saa laittaa 
 
-- muovia, kuten muovikasseja ja –pakkauksia, kuplamuovia tai styroxia > muovipakkauksiin
+- lahjapaperia
+- muovia, kuten muovikasseja ja –pakkauksia, kuplamuovia tai styroxia
 
 
 ## Kierrätyspiste
