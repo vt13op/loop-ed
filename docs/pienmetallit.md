@@ -23,3 +23,7 @@ Pienmetallia ovat pääsääntöisesti metallipakkaukset, mutta keräykseen voi 
 ### Kierrätyspiste
 
 Metalli lajitellaan konehallin kentällä olevalle siirtolavalle.
+
+---
+
+[Metsäsairila](https://www.metsasairila.fi/lajittelu-ja-neuvonta/lajittelu/metalli.html)
