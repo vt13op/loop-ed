@@ -14,9 +14,9 @@ Teippaa käytöstä poistettujen paristojen ja akkujen navat. Laita vuotavat par
 
 Palauta muualle kuin kauppaan 
 
-- Isot litiumakut, kuten akut sähköpyöriin, tasapainolautoihin, mopoihin, mönkijöihin ja päältä ajettaviin ruohonleikkureihin voit palauttaa lajittelu- ja kierrätyskeskukseen sekä pienjäteasemille. 
-- Ajoneuvojen akkuja otetaan vastaan lajittelu- ja kierrätyskeskukseen sekä pienjäteasemille. 
-- Isoja yksinomaan teollisuus- tai ammattikäyttöön suunniteltuja akkujen kierrätysohjeet saat akun maahantuojalta. 
+- Isot litiumakut, kuten akut sähköpyöriin, tasapainolautoihin, mopoihin, mönkijöihin ja päältä ajettaviin ruohonleikkureihin
+- Ajoneuvojen akut
+- Isoja yksinomaan teollisuus- tai ammattikäyttöön suunnitellut akut
 
 ### Kierrätyspiste
 
