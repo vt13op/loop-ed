@@ -34,3 +34,10 @@ Vaarallista jätettä eivät ole
 - tyhjät hajuvesi-, kynsilakka-ja kynsilakanpoistoainepullot
 
  ### Kierrätyspiste
+
+ Vaarallista jätettä varten on lajittelupiste konehallilla.
+
+ ---
+
+[Metsäsairila](https://www.metsasairila.fi/lajittelu-ja-neuvonta/lajittelu/vaaralliset-jatteet.html)
+[Veikko Lehti](https://veikkolehti.fi/yritykselle/vaaralliset-jatteet/)
