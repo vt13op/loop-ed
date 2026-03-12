@@ -24,6 +24,7 @@ Niittejä ja paperiliittimiä ei tarvitse poistaa. Materiaalin tulee olla puhdas
 
 ### Kierrätyspiste
 
+Paperinkeräysastiat päärakennuksessa ja konehallissa.
 
 ---
 
@@ -47,4 +48,8 @@ Laita tänne kaikki paperit, joissa on esim.
 
 ### Kierrätyspiste
 
-Tietosuojakeräysastia.
+Tietosuojakeräysastia päärakennuksessa.
+
+---
+
+[Metsäsairila](https://www.metsasairila.fi/lajittelu-ja-neuvonta/lajittelu/paperi.html)
