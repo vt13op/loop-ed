@@ -1,5 +1,3 @@
-Voit kierrättää paristot ja pienakut jokaisessa niitä myyvässä kaupassa tai kioskissa sekä lajittelu- ja kierrätyskeskuksella. 
-
 ### Saa laittaa
 
 - alkaliparistot  
@@ -22,4 +20,8 @@ Palauta muualle kuin kauppaan
 
 ### Kierrätyspiste
 
-Kaupat, kioskit sekä lajittelu- ja kierrätuskeskukset.
+Keruuastia konehallissa.
+
+---
+
+[Metsärairila](https://www.metsasairila.fi/lajittelu-ja-neuvonta/lajittelu/paristot-ja-pienakut.html)
