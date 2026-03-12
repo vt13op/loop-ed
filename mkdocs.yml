@@ -3,6 +3,7 @@ theme:
   name: material
 nav:
   - Tietoa: index.md
+  - Akut: akut.md
   - Lasi ja keramiikka: lasi_ja_keramiikka.md
   - Muovit: muovit.md
   - Orgaaninen jäte: orgaaninen_jate.md
