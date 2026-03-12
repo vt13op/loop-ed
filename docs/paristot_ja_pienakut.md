@@ -12,15 +12,13 @@ Teippaa käytöstä poistettujen paristojen ja akkujen navat. Laita vuotavat par
 
 ### Ei saa laittaa
 
-Palauta muualle kuin kauppaan 
-
 - Isot litiumakut, kuten akut sähköpyöriin, tasapainolautoihin, mopoihin, mönkijöihin ja päältä ajettaviin ruohonleikkureihin
 - Ajoneuvojen akut
-- Isoja yksinomaan teollisuus- tai ammattikäyttöön suunnitellut akut
+- Isoja yksinomaan teollisuus- tai ammattikäyttöön suunniteltuja akkuja
 
 ### Kierrätyspiste
 
-Keruuastia konehallissa.
+Keruuastia konehallilla.
 
 ---
 
