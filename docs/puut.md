@@ -37,4 +37,4 @@ Puujätteen kierrätykseen ei saa lajitella kyllästettyä puuta vaan se tulee k
 
 ---
  
-(Lassila &Tikanoja)[https://www.lt.fi/lajitteluohjeet/puujate]
+[Lassila &Tikanoja](https://www.lt.fi/lajitteluohjeet/puujate)
