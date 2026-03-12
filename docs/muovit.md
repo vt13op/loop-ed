@@ -17,3 +17,9 @@ Vain kotitalouden tyhjät pakkaukset. Irrota korkit ja kannet ja laita ne irrall
 - vaarallisten aineiden jäämiä tai painetta sisältäviä pakkauksia, kuten moottoriöljypakkaukset
 
 ### Kierrätyspiste
+
+Keräysastiat päätalon aulassa, konehallissa ja asuntolan vieressä.
+
+---
+
+[Metsäsairila](https://www.metsasairila.fi/lajittelu-ja-neuvonta/lajittelu/muovipakkaukset.html)
