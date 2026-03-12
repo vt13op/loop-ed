@@ -22,4 +22,4 @@ Keruuastia konehallilla.
 
 ---
 
-[Metsärairila](https://www.metsasairila.fi/lajittelu-ja-neuvonta/lajittelu/paristot-ja-pienakut.html)
+[Metsäsairila](https://www.metsasairila.fi/lajittelu-ja-neuvonta/lajittelu/paristot-ja-pienakut.html)
