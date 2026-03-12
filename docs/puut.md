@@ -20,7 +20,7 @@ Puujätteen kierrätykseen ei saa lajitella kyllästettyä puuta vaan se tulee k
 
 ### Kierrätyspiste
 
-Puhdas puujäte lajitellaan konehallin kentällä olevalle siniselle siirtolavalle.
+Puujäte lajitellaan konehallin kentällä olevalle siniselle siirtolavalle.
 
 ---
  
