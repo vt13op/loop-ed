@@ -25,3 +25,4 @@ Puhdas puujäte lajitellaan konehallin kentällä olevalle siniselle siirtolaval
 ---
  
 [Lassila &Tikanoja](https://www.lt.fi/lajitteluohjeet/puujate)
+[Metsäsairila](https://www.metsasairila.fi/lajittelu-ja-neuvonta/lajittelun-abc/puujate)
