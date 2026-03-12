@@ -1,4 +1,4 @@
-Pienmetallia ovat pääsääntöisesti metallipakkaukset, mutta keräykseen voi laittaa myös muuta kodin pienmetallia, joka mahtuu keräysastiaan. Astiaan mahtumaton romumetalli tulee toimittaa lajitteluasemalle. 
+Pienmetallia ovat pääsääntöisesti metallipakkaukset, mutta keräykseen voi laittaa myös muuta kodin pienmetallia, joka mahtuu keräysastiaan.
 
 ### Saa laittaa
 
@@ -21,3 +21,5 @@ Pienmetallia ovat pääsääntöisesti metallipakkaukset, mutta keräykseen voi 
 - muovi- ja kahvipusseja 
 
 ### Kierrätyspiste
+
+Metalli lajitellaan konehallin kentällä olevalle siirtolavalle.
