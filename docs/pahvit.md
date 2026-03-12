@@ -16,8 +16,7 @@ Litistä pakkaukset. Pienistä tahroista ei ole haittaa, huuhtaise pakkaus tarvi
 
 ### Kierrätyspiste
 
-?
-
+Rullakot päätalossa, konehallissa ja ruokalan takana.
 
 ---
 
