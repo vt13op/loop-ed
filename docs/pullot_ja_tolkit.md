@@ -8,7 +8,7 @@
 
 ### Kierrätyspiste
 
-Keräysastia, pullonpalautus
+Keräysastiat, pullonpalautus
 
 ---
 
