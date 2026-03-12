@@ -1,12 +1,9 @@
-# LOOP-ED
+# Jätteiden lajittelu ja kierrätys Esedussa 
 
-Ohjeita materiaalien kierrätykseen.
+Esedussa vastuullisuus ja kestävä kehitys ovat tärkeä osa arkea ja oppimista. Jokainen opiskelija ja työntekijä voi omilla valinnoillaan vaikuttaa ympäristöön ja tulevaisuuteen. Yksi konkreettinen tapa toimia vastuullisesti on jätteiden oikea lajittelu ja kierrätys. 
 
-## FIVE FACTS ABOUT MICROLEARNING
+Tälle sivulle on koottu selkeät ohjeet siitä, miten opinnoissa syntyvät jätteet lajitellaan Metsäkoulun toimipisteessä. Tavoitteena on helpottaa arjen toimintaa ja auttaa löytämään nopeasti oikea jäteastia eri materiaaleille. 
 
-1. Puts knowledge in small and understandable pieces and grants learners’ access to the newest information regardless of their location, time of day or the preferred format of information (Mohammed, Wakil, & Nawroly, 2018).
-2. Increases students’ learning abilities by 18% compared to traditional methods (Mohammed et al., 2018, as in Dolasinski & Reynolds, 2020).
-3. Helps students retain information effectively (Mohammed, Wakil, & Nawroly 2018).
-4. Learning resources can accessed at the time of breaks or gaps in learners’ daily activities (Gabrielli, Kimani, Catarci, 2023).
-5. Can be considered a contextual lifelong learning process (Gabrielli, Kimani, Catarci, 2023).
+Kestävä kehitys on osa Esedun strategiaa, ja oppilaitoksessa pyritään toimimaan kiertotalouden periaatteiden mukaisesti. Kun materiaalit lajitellaan oikein, niitä voidaan hyödyntää uudelleen ja vähentää ympäristökuormitusta. Samalla opimme työelämässäkin tarvittavia vastuullisia toimintatapoja. 
 
+Pienillä teoilla on suuri merkitys. Jokainen oikein lajiteltu jäte vie meitä kohti kestävämpää tulevaisuutta. 
