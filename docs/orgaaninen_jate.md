@@ -17,3 +17,5 @@ Kompostoriin laitetaan puhdasta luonnonmukaista biojätettä. Poista 	muoviruuku
 - karvat, jätökset, palkkaherkut
 
 ### Kierrätyspiste
+
+Kompostilava pihalla.
