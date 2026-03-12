@@ -21,3 +21,9 @@
 - hehku- ja halogeeni- ja autolamput
 
 ### Kierrätyspiste
+
+SER-jätettä varten on konehallin seinustalla erikseen merkitty IBC-kontti.
+
+ ---
+
+[Metsäsairila](https://www.metsasairila.fi/lajittelu-ja-neuvonta/lajittelu/sahkolaitteet.html)
