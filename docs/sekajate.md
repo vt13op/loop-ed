@@ -36,7 +36,7 @@ Sekajätteeseen laitetaan jäte, jota ei voi lajitella muualle.
 
 ### Kierrätyspiste
 
-Sekajätteen lajittelua varten kampusalueella on useita, sekajätteelle merkittyjä punaisia 240 litran jäteastioita, mm. päätalon aulassa ja alatalolla.
+Kampusalueella on useita, sekajätteelle merkittyjä punaisia 240 litran jäteastioita, mm. päätalon aulassa ja alatalolla.
 
  ---
 

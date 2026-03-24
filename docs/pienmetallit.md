@@ -22,7 +22,7 @@ Pienmetallia ovat pääsääntöisesti metallipakkaukset, mutta keräykseen voi 
 
 ### Kierrätyspiste
 
-Metalli lajitellaan konehallin kentällä olevalle siirtolavalle.
+Konehallin kentällä oleva siirtolava.
 
 ---
 

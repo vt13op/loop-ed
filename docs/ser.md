@@ -22,7 +22,7 @@
 
 ### Kierrätyspiste
 
-SER-jätettä varten on konehallin seinustalla erikseen merkitty IBC-kontti.
+Konehallin seinustalla erikseen merkitty IBC-kontti.
 
  ---
 

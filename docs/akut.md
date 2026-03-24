@@ -5,4 +5,4 @@
 
 ### Kierrätyspiste
 
-Lukittava akkuhuone konehallilla
+Lukittava akkuhuone konehallilla.

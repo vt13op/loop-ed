@@ -35,7 +35,7 @@ Vaarallista jätettä eivät ole
 
  ### Kierrätyspiste
 
- Vaarallista jätettä varten on lajittelupiste konehallilla.
+Lajittelupiste konehallilla.
 
  ---
 

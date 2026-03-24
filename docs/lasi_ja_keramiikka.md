@@ -5,7 +5,7 @@
 
 ### Kierrätyspiste
 
-Puutarha-alalla lasi- ja keramiikkakoristeille on varattu oma keräysastia, 	johon ne tulee laittaa.  
+Puutarha-alalla lasi- ja keramiikkakoristeille on oma keräysastia.  
 
 ---
 
