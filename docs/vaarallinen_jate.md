@@ -33,7 +33,7 @@ Vaarallista jätettä eivät ole
 - palovaroittimet
 - tyhjät hajuvesi-, kynsilakka-ja kynsilakanpoistoainepullot
 
- ### Kierrätyspiste
+### Kierrätyspiste
 
 Lajittelupiste konehallilla.
 
